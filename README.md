@@ -1,4 +1,4 @@
-# ReactInVanillaJS
-# Funcionalidad que simula lo que hace React en un nivel básico hecho con Vanilla
+# React propio creado con Vanilla
+
 
 Mención a @d4nidev y @midudev
